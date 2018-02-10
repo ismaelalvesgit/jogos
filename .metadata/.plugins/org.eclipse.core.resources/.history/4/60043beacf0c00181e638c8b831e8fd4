@@ -1,0 +1,32 @@
+package aula;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		/*
+		int idade = 24;
+		
+		System.out.println("minha idade é "+idade);
+		
+		idade = 18;
+		
+		System.out.println("agora minha idade é " +idade);
+		
+		idade=20;
+		
+		System.out.println("agora minha idade é " +idade);
+		*/
+	
+	//tipos de variáveis
+		
+		int numero = 20; //int funciona com numeros até 6 digitos maiores usar long
+		String nome = "ismael";
+		Boolean mestre = true;
+		char letra = 'i';
+		double Quebrado = 20.1;
+	
+	}
+
+}
+/* exemplos básicos de como usar uma variavel em java*/

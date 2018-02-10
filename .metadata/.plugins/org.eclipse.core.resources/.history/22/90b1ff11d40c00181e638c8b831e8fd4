@@ -1,0 +1,52 @@
+package variaveis;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		/*
+		int idade = 24;
+		
+		System.out.println("minha idade é "+idade);
+		
+		idade = 18;
+		
+		System.out.println("agora minha idade é " +idade);
+		
+		idade=20;
+		
+		System.out.println("agora minha idade é " +idade);
+		*/
+	
+	//tipos de variáveis
+		
+	/*
+		String nome = "ismael";
+		Boolean mestre = true;
+		char letra = 'i';
+		double numeroquebrado = 20.1;
+		
+		System.out.println(numero);
+		System.out.println(nome);
+		System.out.println(mestre);
+		System.out.println(letra);
+		System.out.println(numeroquebrado);
+	 */
+	
+	// constates -> tipos que nunca vão mudar o valor
+		
+	/*	
+		final int vida_maxima = 10;
+	*/
+	
+	// array
+		
+		String[] nome = new String[3]; //quantidade de atributos
+	
+		nome[0]="ismael";
+		nome[1]="carlos";
+		System.out.println("meu nome é "+ nome[0]);
+	}
+
+}
+/* exemplos básicos de como usar uma variavel em java*/
